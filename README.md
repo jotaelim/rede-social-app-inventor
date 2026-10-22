@@ -25,7 +25,7 @@ com programação visual em blocos no MIT App Inventor.
 
 ## Como abrir o projeto
 
-1. Baixe o arquivo T161-10_2616541_2610380.aia deste repositório.
+1. Baixe o arquivo REDE-SOCIAL.aia deste repositório.
 2. Acesse https://ai2.appinventor.mit.edu/.
 3. Entre na sua conta.
 4. No menu Projects, selecione Import project (.aia) from my computer.
